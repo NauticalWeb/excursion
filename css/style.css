@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana; sans-serif;
+}
+
+h1 {
+  color: white;
+  display: block;
+  font-size: 50px;
+  font-weight: Normal;
+}
+
+html{
+  display : block;
+}
+
+.tbd {
+  color:aquamarine;
+  font-size: 16px;
+  text-decoration: underline; solid;
+  }
+
+  h2 {
+    color: white;
+    display: block;
+    font-size: 42px;
+    font-weight: 300;
+  }
+p {
+  color: gray;
+  font-size: 21px;
+}
